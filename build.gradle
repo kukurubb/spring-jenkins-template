@@ -40,6 +40,6 @@ tasks.named('test') {
 
 bootJar{
 	archivesBaseName = 'laterre-test-sjta'
-	archiveFileName = 'laterre-test-sjta-1.0.0-SNAPSHOT.jar'
+	archiveFileName = 'spring-jenkins-template-hyunho.jar'
 	archiveVersion = "1.0.0"
 }
